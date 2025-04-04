@@ -1,6 +1,8 @@
 # PaliGemma
 ![Screenshot 2025-02-05 082123](https://github.com/user-attachments/assets/81a025d9-5d98-4a3b-97b5-6dc7a16a7da2)
 
+### Check finetuned model on [Hugging Face](https://huggingface.co/MLap/paligemma_intersections) 
+
 ## Model description
 
 This model is a fine-tuned version of [google/paligemma-3b-pt-224](https://huggingface.co/google/paligemma-3b-pt-224) on [ariG23498/intersection-dataset](https://huggingface.co/datasets/ariG23498/intersection-dataset).
